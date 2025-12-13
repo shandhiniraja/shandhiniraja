@@ -130,7 +130,7 @@ I’m skilled in Full Stack Development, building responsive web applications wi
 
 | Platform | Problems Solved | Max Rating |
 |----------|----------------|------------|
-| **LeetCode** | 16 | 1564 |
+| **LeetCode** | 16 | 1494 |
 | **CodeChef** | 555 | 1117 |
 | **CodeForces** | - | - |
 | **GeeksForGeeks** | - | - |
