@@ -136,7 +136,21 @@ I’m skilled in Full Stack Development, building responsive web applications wi
 | **GeeksForGeeks** | - | - |
 
 ---
- 
+ ## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=shandhini&show_icons=true&theme=dark&hide_border=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shandhini&layout=compact&theme=dark&hide_border=true"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shandhini&theme=dark&hide_border=true"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=shandhini&theme=react-dark&hide_border=true"/>
+
+
+![snake gif](https://github.com/shandhini/shandhini/blob/output/github-snake-dark.svg)
+
+</div>
 
 
 ##  Currently Learning  
