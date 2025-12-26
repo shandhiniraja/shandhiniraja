@@ -7,9 +7,9 @@
 
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=sabariyuhendh&color=8B5CF6&style=for-the-badge&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/sabariyuhendh?style=for-the-badge&logo=github&color=8B5CF6&labelColor=000000)
-![GitHub User's stars](https://img.shields.io/github/stars/sabariyuhendh?style=for-the-badge&logo=github&color=8B5CF6&labelColor=000000)
+![Profile Views](https://komarev.com/ghpvc/?username=shandhiniraja&color=8B5CF6&style=for-the-badge&label=Profile+Views)
+![GitHub followers](https://img.shields.io/github/followers/shandhiniraja?style=for-the-badge&logo=github&color=8B5CF6&labelColor=000000)
+![GitHub User's stars](https://img.shields.io/github/stars/shandhiniraja?style=for-the-badge&logo=github&color=8B5CF6&labelColor=000000)
 
 </div>
 
@@ -79,7 +79,7 @@ I’m skilled in Full Stack Development, building responsive web applications wi
       React.js • Tailwind CSS • MongoDB • Firebase • AI APIs
     </td>
     <td>
-      🔗 <a href="https://github.com/sabariyuhendh/echosoul" target="_blank">View →</a>
+      🔗 <a href="https://github.com/shandhiniraja/echosoul" target="_blank">View →</a>
     </td>
   </tr>
 
@@ -92,7 +92,7 @@ I’m skilled in Full Stack Development, building responsive web applications wi
       React.js • Tailwind CSS • GitHub
     </td>
     <td>
-      🔗 <a href="https://github.com/sabariyuhendh/vulnerability-scanner" target="_blank">View →</a>
+      🔗 <a href="https://github.com/shandhiniraja/vulnerability-scanner" target="_blank">View →</a>
     </td>
   </tr>
 
@@ -105,7 +105,7 @@ I’m skilled in Full Stack Development, building responsive web applications wi
       React.js • Node.js • MongoDB • WebSockets
     </td>
     <td>
-      🔗 <a href="https://github.com/sabariyuhendh/devconnect" target="_blank">View →</a>
+      🔗 <a href="https://github.com/shandhiniraja/devconnect" target="_blank">View →</a>
     </td>
   </tr>
 
@@ -118,7 +118,7 @@ I’m skilled in Full Stack Development, building responsive web applications wi
       Java • Maven • MySQL • Spring Boot
     </td>
     <td>
-      🔗 <a href="https://github.com/sabariyuhendh/expense-tracker" target="_blank">View →</a>
+      🔗 <a href="https://github.com/shandhiniraja/expense-tracker" target="_blank">View →</a>
     </td>
   </tr>
 </table>
@@ -176,6 +176,6 @@ I’m skilled in Full Stack Development, building responsive web applications wi
 ###  Fun Fact
 *"In the vast universe of code, every problem is just a star waiting to be discovered!"*
 
-**⭐ From [Shandhini](https://github.com/sabariyuhendh)**
+**⭐ From [Shandhini](https://github.com/shandhiniraja)**
 
 </div>
